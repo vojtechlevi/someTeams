@@ -2,10 +2,6 @@
 
 Assignment to build a small website. Using the data from [data.php](https://github.com/vojtechlevi/someTeams/blob/main/data.php) to create a nice looking table with splitted PHP files to show football teams and some information about them.
 
-Add information about your projects public GitHub repository URL and the online URL in the some-teams.md file in your how-you-doin-repo.
-
-This information should be handed in before oct 6th 16:00.
-
 ## Requirements:
 
 - The data you will be using is in data.php. &check;
@@ -24,8 +20,8 @@ This information should be handed in before oct 6th 16:00.
 
 - The project should not include any coding errors, warning or notices. &check;
 
-- The repository should have at least 7 commits and not just one big commit.
+- The repository should have at least 7 commits and not just one big commit. &check;
 
-- The repository should contain a README.md file with documentation.
+- The repository should contain a README.md file with documentation. &check;
 
-- The repository should contain a LICENSE file. Preferably MIT.
+- The repository should contain a LICENSE file. Preferably MIT. &check;
